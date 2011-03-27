@@ -1,0 +1,16 @@
+# teiden2csv - Generate CSV file from Scheduled Blackout Grouping of TEPCO.
+
+## Description
+
+Generate CSV file from grouping detail of TEPCO Scheduled Electric Blackout.
+
+## Requirements
+
+* spreadsheet.gem
+* curl (optional, recommended)
+
+## How to use
+
+    % ruby generate.rb
+    % less teiden.csv
+
